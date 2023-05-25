@@ -1,6 +1,6 @@
 # Taxi-Simulation
 
-Drivers and customers are all preset and made and the program just does basic arthimatics to pair up the customers and drivers.
+Drivers and customers are all preset and made, the program just does basic arthimatics to pair up the customers and drivers.
 
 ![image](https://github.com/DEALSC/Taxi-Simulation/assets/83243290/1e7aadde-5eae-4a53-86c6-dd03e3cb2a77)
 
